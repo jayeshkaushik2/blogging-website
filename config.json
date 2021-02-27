@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri"    : "mysql+pymysql://root:@localhost/codingclown",
+        "prod_uri"     : "mysql+pymysql://root:@localhost/codingclown",
+        "fb_url"       : "https://facebook.com/codingclown",
+        "tw_url"       : "https://twitter.com/codingclown",
+        "gh_url"       : "https://github.com/codingclown",
+        "blog_name"    : "Clown...",
+        "tag_line"     : "A blog like by the Programmer",
+        "gmail-user"    : " your email",
+        "gmail-password": "your password",
+        "about_text"    : "Hi, my name is jayesh kaushik and i love programming and mathematics.",
+        "no_of_posts"   : 3,
+        "login_image"   : "login.svg",
+        "admin_user"    : "universe",
+        "admin_password": "no one",
+        "upload_location": "C:\\Users\\Shweta\\Documents\\python\\website\\static"
+
+    }
+    
+
+}
